@@ -4,10 +4,10 @@
 
 ## Generate 
 - bode plot
-- - ![alt text](.\Image\bode.png)
+- - ![alt text](https://i.imgur.com/oCfxA5n.png)
 
 - S domain Math expression 
   - ### (.txt)
-  ![alt text](.\Image\s_domain_t.png)
+  ![alt text](https://i.imgur.com/xy4gEmw.png)
   - ### (.png)
-  ![alt text](.\Image\latex.png)
+  ![alt text](https://i.imgur.com/TFpnfGe.png)
