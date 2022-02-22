@@ -1,4 +1,13 @@
 # Bode_drawer_GUI
 
-only input a poly coeff 
-This can produce a bode plot , S domain math expression (.txt or .png)
+### This is a program for generate the bode plot. 
+
+## Generate 
+- bode plot
+- - ![alt text](.\Image\bode.png)
+
+- S domain Math expression 
+  - ### (.txt)
+  ![alt text](.\Image/s_domain_t.png)
+  - ### (.png)
+  ![alt text](.\Image/latex.png)
