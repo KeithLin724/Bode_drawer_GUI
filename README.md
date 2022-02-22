@@ -8,6 +8,6 @@
 
 - S domain Math expression 
   - ### (.txt)
-  ![alt text](.\Image/s_domain_t.png)
+  ![alt text](.\Image\s_domain_t.png)
   - ### (.png)
-  ![alt text](.\Image/latex.png)
+  ![alt text](.\Image\latex.png)
