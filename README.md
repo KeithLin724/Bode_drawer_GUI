@@ -3,7 +3,10 @@
 ### This is a program for generate the bode plot. 
 
 ## Input
-- Only input the coefficient (for example $8s^2+9s+1$ , only input "8 2 9")
+- Only input the coefficient 
+-  (for example)
+- - ![\Large 8s^2 + 9s +1](https://latex.codecogs.com/svg.latex?\Large&space;8s^2+9s+1) 
+- - only input "8 2 9"
 - And then click the "save and run" button to choose the folder for save file 
 - !!! finish 
 
