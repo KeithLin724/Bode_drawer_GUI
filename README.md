@@ -5,8 +5,8 @@
 ## Input
 - Only input the coefficient 
 -  (for example)
-- - ```math 8s^2+2s+9``` 
-- - only input "8 2 9"
+- - ```8s^2+2s+9``` 
+- - only input "```8 2 9```"
 - And then click the "save and run" button to choose the folder for save file 
 - !!! finish 
 
