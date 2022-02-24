@@ -5,7 +5,7 @@
 ## Input
 - Only input the coefficient 
 -  (for example)
-- - ![\Large 8s^2 + 9s +1](https://latex.codecogs.com/svg.latex?\Large&space;8s^2+9s+1) 
+- - ```math 8s^2+2s+9``` 
 - - only input "8 2 9"
 - And then click the "save and run" button to choose the folder for save file 
 - !!! finish 
